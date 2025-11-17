@@ -5,12 +5,12 @@ I enjoy building, exploring backend systems, and learning new technologies.
 Currently working on personal projects and growing my skills in full-stack development and backend engineering.
 
 ## Technologies & Tools
-- Languages: Java, Python, JavaScript, C++
-- Web: HTML, CSS, Node.js, 
+- Languages: Java, Python, C++, JavaScript
+- Web: HTML, CSS 
 - Databases: MySQL, MongoDB
 - Tools: Git, GitHub, VS Code
 
-## Projects
+## Projects 
 
 ### Stock Trading App (Python + API + GUI)
 - Built a desktop application using Python and the Alpaca API to simulate real-time stock trading
